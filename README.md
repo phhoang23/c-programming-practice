@@ -1,25 +1,40 @@
-# 📚 FPT University C/C++ Practice Problems
+# C Programming Practice
 
-A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PRF193, CSD202) from FPT University's auto-grading system. Each problem includes detailed descriptions, sample test cases, and reference solutions in C.
+A collection of programming exercises designed to practice C fundamentals, strengthen problem-solving skills, and build good coding habits.
+
+## Topics
+
+| # | Topic | Problems |
+|---|---|---:|
+| 1 | Basic Operations & Conditions | 001–010 |
+| 2 | Switch-Case & Menu-Driven Programs | 011–018 |
+| 3 | Loops & Iteration | 019–028 |
+| 4 | Loops & Mathematical Problems | 029–037 |
+| 5 | One-Dimensional Arrays | 038–047 |
+| 6 | Two-Dimensional Arrays & Matrices | 048–057 |
+| 7 | Strings | 058–077 |
+| 8 | Structures & Data Management | 078–087 |
+
+**Total: 87 exercises**
 
 ---
 
-## 📌 Full Problem List (001 - 087)
+## Problem List
 
-### Part 1: Basic Operations & Conditions (001 - 010)
+### 01. Basic Operations & Conditions
 
-- [001. Sum of two integers](001_Sum_of_two_integers/)
-- [002. Four basic calculations](002_Four_basic_calculations/)
-- [003. Multiplication table](003_Multiplication_table/)
-- [004. Find maximum of three integers](004_Find_maximum_of_three_integers/)
-- [005. Check positive, negative, or zero](005_Check_positive_negative_or_zero/)
-- [006. Even or odd number](006_Even_or_odd_number/)
-- [007. Score pass or fail](007_Score_pass_or_fail/)
-- [008. Score classification](008_Score_classification/)
-- [009. Leap year check](009_Leap_year_check/)
-- [010. University admission eligibility](010_University_admission_eligibility/)
+- [001. Sum of Two Integers](001_Sum_of_two_integers/)
+- [002. Four Basic Calculations](002_Four_basic_calculations/)
+- [003. Multiplication Table](003_Multiplication_table/)
+- [004. Find Maximum of Three Integers](004_Find_maximum_of_three_integers/)
+- [005. Check Positive, Negative, or Zero](005_Check_positive_negative_or_zero/)
+- [006. Even or Odd Number](006_Even_or_odd_number/)
+- [007. Score Pass or Fail](007_Score_pass_or_fail/)
+- [008. Score Classification](008_Score_classification/)
+- [009. Leap Year Check](009_Leap_year_check/)
+- [010. University Admission Eligibility](010_University_admission_eligibility/)
 
-### Part 2: Switch-Case & Menu-Driven Programs (011 - 018)
+### 02. Switch-Case & Menu-Driven Programs
 
 - [011. Day of the Week](011_Day_of_the_Week/)
 - [012. Simple Calculator](012_Simple_Calculator/)
@@ -30,7 +45,7 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [017. Coffee Shop Order](017_Coffee_Shop_Order/)
 - [018. Mobile Phone Service Plan](018_Mobile_Phone_Service_Plan/)
 
-### Part 3: For Loops & Iteration (019 - 028)
+### 03. Loops & Iteration
 
 - [019. Display Numbers in a Range](019_Display_Numbers_in_a_Range/)
 - [020. Display Numbers in Reverse Order](020_Display_Numbers_in_Reverse_Order/)
@@ -43,7 +58,7 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [027. Find Minimum and Maximum](027_Find_Minimum_and_Maximum/)
 - [028. Print Star Pattern](028_Print_Star_Pattern/)
 
-### Loops & Math / Advanced Iteration (029 - 037)
+### 04. Loops & Mathematical Problems
 
 - [029. Sum of Odd Numbers](029_Sum_of_Odd_Numbers/)
 - [030. Sum of Squares](030_Sum_of_Squares/)
@@ -55,7 +70,7 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [036. Fibonacci Sequence](036_Fibonacci_Sequence/)
 - [037. Print Number Pyramid](037_Print_Number_Pyramid/)
 
-### Arrays 1D (038 - 047)
+### 05. One-Dimensional Arrays
 
 - [038. Even Positions in Array](038_Even_Positions_in_Array/)
 - [039. Sum of Odd Elements in Array](039_Sum_of_Odd_Elements_in_Array/)
@@ -68,7 +83,7 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [046. Delete Element at Index](046_Delete_Element_at_Index/)
 - [047. Rotate Array Left](047_Rotate_Array_Left/)
 
-### Arrays 2D / Matrices (048 - 057)
+### 06. Two-Dimensional Arrays & Matrices
 
 - [048. Display Matrix Columns](048_Display_Matrix_Columns/)
 - [049. Row Sums of Matrix](049_Row_Sums_of_Matrix/)
@@ -81,7 +96,7 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [056. Transpose Matrix](056_Transpose_Matrix/)
 - [057. Matrix Multiplication](057_Matrix_Multiplication/)
 
-### Strings (058 - 077)
+### 07. Strings
 
 - [058. Convert Uppercase and Lowercase](058_Convert_Uppercase_and_Lowercase/)
 - [059. Remove Extra Spaces](059_Remove_Extra_Spaces/)
@@ -104,7 +119,7 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [076. Most Frequent Character](076_Most_Frequent_Character/)
 - [077. Group Words by First Letter](077_Group_Words_by_First_Letter/)
 
-### Structures & Management (078 - 087)
+### 08. Structures & Data Management
 
 - [078. Book Information Struct](078_Book_Information_Struct/)
 - [079. Employee Salary Calculator](079_Employee_Salary_Calculator/)
@@ -119,9 +134,45 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/phhoang23/c-cpp-bacis_problems.git](https://github.com/phhoang23/c-cpp-bacis_problems.git)
-   ```
+Make sure GCC is installed, then open a terminal in the folder containing the solution.
+
+Compile:
+
+```bash
+gcc solution.c -o solution
+```
+
+Run on Windows:
+
+```bash
+solution.exe
+```
+
+Run on Linux or macOS:
+
+```bash
+./solution
+```
+
+## Goals
+
+- Practice C programming fundamentals.
+- Improve logical thinking and problem-solving.
+- Become more comfortable with arrays, strings, loops, and structures.
+- Write clean, readable, and maintainable code.
+- Track progress through regular practice.
+
+## Notes
+
+- This repository is for personal learning and practice.
+- Solutions may be improved or refactored over time.
+- Problem descriptions and solutions should be checked against their intended requirements.
+- The repository may expand with more exercises in the future.
+
+---
+
+**Language:** C  
+**Exercises:** 87  
+**Status:** Ongoing
