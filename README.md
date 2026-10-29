@@ -7,7 +7,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 ## 📌 Full Problem List (001 - 087)
 
 ### Part 1: Basic Operations & Conditions (001 - 010)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [001. Sum of two integers](001_Sum_of_two_integers/)
 - [002. Four basic calculations](002_Four_basic_calculations/)
 - [003. Multiplication table](003_Multiplication_table/)
@@ -20,7 +23,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [010. University admission eligibility](010_University_admission_eligibility/)
 
 ### Part 2: Switch-Case & Menu-Driven Programs (011 - 018)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [011. Day of the Week](011_Day_of_the_Week/)
 - [012. Simple Calculator](012_Simple_Calculator/)
 - [013. Month Information](013_Month_Information/)
@@ -31,7 +37,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [018. Mobile Phone Service Plan](018_Mobile_Phone_Service_Plan/)
 
 ### Part 3: For Loops & Iteration (019 - 028)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [019. Display Numbers in a Range](019_Display_Numbers_in_a_Range/)
 - [020. Display Numbers in Reverse Order](020_Display_Numbers_in_Reverse_Order/)
 - [021. Calculate the Sum from 1 to N](021_Calculate_the_Sum_from_1_to_N/)
@@ -44,7 +53,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [028. Print Star Pattern](028_Print_Star_Pattern/)
 
 ### Loops & Math / Advanced Iteration (029 - 037)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [029. Sum of Odd Numbers](029_Sum_of_Odd_Numbers/)
 - [030. Sum of Squares](030_Sum_of_Squares/)
 - [031. Calculate Power N^P](031_Calculate_Power_NP/)
@@ -56,7 +68,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [037. Print Number Pyramid](037_Print_Number_Pyramid/)
 
 ### Arrays 1D (038 - 047)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [038. Even Positions in Array](038_Even_Positions_in_Array/)
 - [039. Sum of Odd Elements in Array](039_Sum_of_Odd_Elements_in_Array/)
 - [040. Replace Negative Numbers](040_Replace_Negative_Numbers/)
@@ -69,7 +84,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [047. Rotate Array Left](047_Rotate_Array_Left/)
 
 ### Arrays 2D / Matrices (048 - 057)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [048. Display Matrix Columns](048_Display_Matrix_Columns/)
 - [049. Row Sums of Matrix](049_Row_Sums_of_Matrix/)
 - [050. Column Products of Matrix](050_Column_Products_of_Matrix/)
@@ -82,7 +100,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [057. Matrix Multiplication](057_Matrix_Multiplication/)
 
 ### Strings (058 - 077)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [058. Convert Uppercase and Lowercase](058_Convert_Uppercase_and_Lowercase/)
 - [059. Remove Extra Spaces](059_Remove_Extra_Spaces/)
 - [060. Replace Character in String](060_Replace_Character_in_String/)
@@ -105,7 +126,10 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 - [077. Group Words by First Letter](077_Group_Words_by_First_Letter/)
 
 ### Structures & Management (078 - 087)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
 - [078. Book Information Struct](078_Book_Information_Struct/)
 - [079. Employee Salary Calculator](079_Employee_Salary_Calculator/)
 - [080. Product Inventory Record](080_Product_Inventory_Record/)
@@ -124,4 +148,7 @@ A comprehensive collection of 87 C/C++ programming practice problems (PRF192, PR
 1. Clone the repository:
    ```bash
    git clone [https://github.com/phhoang23/c-cpp-bacis_problems.git](https://github.com/phhoang23/c-cpp-bacis_problems.git)
+<<<<<<< HEAD
    ```
+=======
+>>>>>>> f6659ca1c4d1a55aae4310cb1e16fa4f0cf4a018
